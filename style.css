@@ -1,0 +1,65 @@
+h1{
+     font-family: "Montserrat", sans-serif;
+     font-size: 3rem;
+     text-align: center;
+     text-shadow: -6px 2px 0 #f1ff26;
+     color: rgb(56, 105, 7);
+     background-image: url(./3e5bbb872f7f874d8e9d13e82b752abb.jpg);
+     padding: 150px;
+}
+h2{
+width: 100px;
+  height: 100px;
+  background: rgba(89, 61, 4, 0.705);
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+h3{
+    font-family: "Lobster Two", sans-serif;
+    color:olive;
+}
+body{
+    background: linear-gradient(to right, #dee1e3);
+}
+img{
+    width: 600px;
+  height: 250px;
+  border: 1px solid rgb(145, 151, 122);
+  background-color: silver;
+  margin-right: 1em;
+  object-fit: none;
+  display: block;
+  margin-left: auto;
+}
+p{
+  text-decoration: darkorange;
+  width: 40%;
+  color: rgba(223, 182, 0, 0.881);
+}
+.victoire{
+    display: block;
+    margin: 0;
+}
+#age{
+    width: 600px;
+}
+.lys{
+    font-size: 32px;
+    color: black;
+}
+.lv{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.nazi{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+}
+
+.nailla{
+    color: red;
+    font-size: 40px;
+}
